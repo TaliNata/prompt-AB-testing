@@ -1,1 +1,3 @@
-Prompt A — первая версия
+Summarize the text.
+Highlight the main ideas.
+

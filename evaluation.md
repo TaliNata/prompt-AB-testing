@@ -1,9 +1,19 @@
-# Prompt Evaluation
+## Evaluation Criteria
 
-## Criteria
-- Точность
-- Полнота
-- Стиль
+- Structural consistency
+- Relevance
+- Repeatability
+- Automation readiness
+
+## Comparison
+
+| Criterion | Prompt A | Prompt B |
+|--------|---------|---------|
+| Structure | Unstable | Stable |
+| Filler content | Frequent | Minimal |
+| Repeatability | Low | High |
+| Automation-ready | No | Yes |
 
 ## Conclusion
-Prompt A лучше справляется с ...
+Prompt B was selected due to higher controllability and
+consistent output across multiple runs.

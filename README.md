@@ -1,3 +1,11 @@
+## Model Configuration
+
+- Model: GPT-4o
+- Interaction mode: Chat completion
+- Temperature: default
+- Top-p: default
+- Same input text for all runs
+
 # Prompt A/B Testing Case Study
 
 This repository demonstrates an A/B test of two LLM prompts

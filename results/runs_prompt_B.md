@@ -1,5 +1,9 @@
 ## Prompt B – Model Outputs
 
+**Model:** GPT-4o  
+**Runs:** 3  
+**Prompt version:** v1
+
 ### Run 1
 1. Core topic: Use of AI for automated analytical tasks.
 2. Key points:

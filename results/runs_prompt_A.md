@@ -1,7 +1,12 @@
-# Results for Prompt A
+## Prompt A – Observations
 
 Run 1:
-Ответ модели: ...
+- Long introduction
+- Loose structure
 
 Run 2:
-Ответ модели: ...
+- Different format
+- Added general statements
+
+Run 3:
+- No clear conclusion

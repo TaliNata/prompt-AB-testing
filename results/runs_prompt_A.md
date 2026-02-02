@@ -1,5 +1,9 @@
 ## Prompt A – Model Outputs
 
+**Model:** GPT-4o  
+**Runs:** 3  
+**Prompt version:** v1
+
 ### Input
 Artificial intelligence systems are increasingly used
 to automate analytical and decision-making tasks.

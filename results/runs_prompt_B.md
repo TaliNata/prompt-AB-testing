@@ -1,12 +1,17 @@
-## Prompt B – Observations
+## Prompt B – Model Outputs
 
-Run 1:
-- Clear structure
-- No filler
+### Run 1
+1. Core topic: Use of AI for automated analytical tasks.
+2. Key points:
+   - AI systems automate decision-making processes.
+   - Quality and consistency remain problematic.
+   - Output reliability is a key limitation.
+3. Conclusion: Structured control is required for stable results.
 
-Run 2:
-- Same structure preserved
-- Concise output
-
-Run 3:
-- Consistent formatting
+### Run 2
+1. Core topic: Application of AI in analytical automation.
+2. Key points:
+   - AI supports automated analysis and decisions.
+   - Output quality is inconsistent.
+   - Stability remains a challenge.
+3. Conclusion: Improved control mechanisms are necessary.

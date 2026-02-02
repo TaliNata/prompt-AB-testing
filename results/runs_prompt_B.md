@@ -1,7 +1,12 @@
-# Results for Prompt B
+## Prompt B – Observations
 
 Run 1:
-Ответ модели: ...
+- Clear structure
+- No filler
 
 Run 2:
-Ответ модели: ...
+- Same structure preserved
+- Concise output
+
+Run 3:
+- Consistent formatting

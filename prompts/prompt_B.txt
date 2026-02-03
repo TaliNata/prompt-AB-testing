@@ -1,10 +1,4 @@
-SYSTEM:
-You are an analytical summarization engine.
-Produce concise, structured summaries.
-Avoid filler words and subjective language.
-
-USER:
-Summarize the text using this structure:
+Summarize the text about the platypus using the following structure:
 
 1. Core topic (1 sentence)
 2. Key points (3 bullet points)
@@ -14,4 +8,5 @@ Rules:
 - Be concise
 - No introductions
 - No explanations
+
 

@@ -20,9 +20,9 @@ ensuring that observed differences were caused by prompt design.
 | Automation-ready    | No       | Yes      |
 
 ## Conclusion
-Prompt B significantly improved output consistency and comparability
-while preserving informational content. Structured prompting reduced
-uncontrolled variability and produced automation-ready summaries.
+## Conclusion
 Prompt B was selected due to higher controllability and consistent
-output across multiple runs.
+output across multiple runs, producing automation-ready summaries
+without loss of informational content.
+
 
